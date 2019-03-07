@@ -1,2 +1,2 @@
 # sentimental-analysis
-sentimental analysis using IBM Watson
+A sentimental analysis model on IBM-Watson platform performed by extracting tweets from twitter using tweepy module 
